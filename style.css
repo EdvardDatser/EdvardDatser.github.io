@@ -73,8 +73,7 @@ footer {
 
 img {
     max-width: 30%;
-    max-height: 30%;
-    height: auto;
+    height: auto; 
     display: block;
     margin: 1em 0;
 }
